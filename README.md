@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/aarav7479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Aaravkumar7479" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aarav-kumar-5b1420316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarav-kumar-5b1420316" height="30" width="40" /></a>
+<a href="https://github.com/aaravkumar7479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Aaravkumar7479" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aarav-kumar-5b1420316" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarav-kumar-5b1420316" height="30" width="40" /></a>
 <!-- <a href="https://kaggle.com/aaravkumar7479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aaravkumar7479" height="30" width="40" /></a> -->
 <!-- <a href="https://hackerrank.com/aaravkumar7479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aaravkumar7479" height="30" width="40" /></a> -->
 <!-- <a href="https://leetcode.com/Aarav7479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Aarav7479" height="30" width="40" /></a> -->
